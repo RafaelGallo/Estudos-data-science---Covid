@@ -198,7 +198,7 @@ jupyter notebook
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://as2.ftcdn.net/v2/jpg/02/85/86/55/1000_F_285865594_6dcCWPnRGbcUxxi8pInbGAovygHb85Q4.jpg)
 
 
 ## Suporte
