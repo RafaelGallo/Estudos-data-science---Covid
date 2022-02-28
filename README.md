@@ -25,11 +25,12 @@
 ![Logo](https://as1.ftcdn.net/v2/jpg/03/35/50/60/1000_F_335506050_DGng4iJefPfF9QhbwcpanZtrVclpQsjU.jpg)
 
 # Objetivo
-Nesse reprositório que fiz e de estudos de machine learning, modelos machine learning, data analytics, modelos ML NLP. Esse projetos e para fim de estudos em ciências de dados aplicando os dados da covid19. 
+Nesse reprositório que fiz e de estudos de machine learning, data analytics, modelos ML NLP. Esse projetos e para fim de estudos em ciências de dados aplicando os dados da covid19. 
 
 ## Autores
 
 - [@RafaelGallo](https://github.com/RafaelGallo)
+
 # Ferramentas
  
 - Python
@@ -38,6 +39,7 @@ Nesse reprositório que fiz e de estudos de machine learning, modelos machine le
 - Machine learning
 - Dashboard
 - Series temporais
+
 ## Projeto
 
 | Projeto               | Link                                                |
