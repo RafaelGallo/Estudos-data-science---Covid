@@ -42,10 +42,25 @@ Nesse reprositório que fiz e de estudos de machine learning, modelos machine le
 
 | Projeto               | Link                                                |
 | ----------------- | ---------------------------------------------------------------- |
-| ML |  |
-| ML |  |
-| ML |  |
-| ML |  |
+| Machine learning NLP - Research Articles |[Link](https://www.kaggle.com/blessondensil294/topic-modeling-for-research-articles)|
+| Machine learning NLP - COVID-19 All Vaccines Tweets|[Link](https://www.kaggle.com/gpreda/all-covid19-vaccines-tweets)|
+| Machine learning NLP - Coronavirus tweets text Classification| [Link](https://www.kaggle.com/datatattle/covid-19-nlp-text-classification?select=Corona_NLP_train.csv)|
+| Machine learning NLP - COVID-19 🦠 Vaccine Tweets| [Link](https://www.kaggle.com/ritesh2000/covid19-vaccine-tweets)|
+| Machine learning NLP - Omicron - Covid19 Variant |[Link](https://www.kaggle.com/shivamb/omicron-covid19-variant-tweets)|
+| Time series - Corona Virus| [Link](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)|
+| Time series - COVID-19 World Vaccination Progress| [Link](https://www.kaggle.com/fedesoriano/coronavirus-covid19-vaccinations-data)|
+| Data analytics - COVID-19 World Vaccination Progress| [Link](https://www.kaggle.com/gpreda/covid-world-vaccination-progress?select=country_vaccinations.csv)|
+| Data analytics - Covid Variants| [Link](https://www.kaggle.com/pavan9065/covid-variants)|
+| Data analytics - COVID-19 Vaccinations| [Link](https://www.kaggle.com/paultimothymooney/usa-covid19-vaccinations)|
+| Machine learning - COVID Fake News |[Link](https://www.kaggle.com/thesumitbanik/covid-fake-news-dataset)|
+| Machine learning - Fake news|[Link](https://www.kaggle.com/elvinagammed/covid19-fake-news-dataset-nlp)|
+| Machine learning - Diagnosis of COVID-19 and its clinical spectrum |[Link](https://www.kaggle.com/einsteindata4u/covid19/code)|
+| Machine learning - COVID-NET Hospitalization Rates|[Link](https://www.kaggle.com/kweinmeister/covidnet-hospitalization-rates)|
+| Machine learning - SARS hospitalization in Brazil|[Link](https://www.kaggle.com/ianfukushima/sars-hospitalization-in-brazil)|
+| Machine learning - OpenVaccine: COVID-19 mRNA Vaccine |[Link](https://www.kaggle.com/c/stanford-covid-vaccine)|
+| Deep learning X-Ray Images (Pneumonia)| [Link](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)|
+| Deep learning COVID-19 Patients Lungs X Ray Images 10000| [Link](https://www.kaggle.com/nabeelsajid917/covid-19-x-ray-10000-images)|
+
 
 ## Variáveis de Ambiente
 
